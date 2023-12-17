@@ -1,0 +1,63 @@
+body {
+    font-family: sans-serif;
+}
+
+header img{
+    border:3px solid lightcoral;
+    border-radius: 4px;
+
+}
+
+header {
+    background-color: lightcoral;
+    border: 5px solid gold;
+    border-radius: 10px;
+    border-style: dashed;
+}
+
+header a {
+    background-color: white;
+    padding: 2px;
+}
+
+header b {
+    margin: 5px;
+    color: indigo;
+}
+
+main h1 {
+    color: gold;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer {
+    background-color: chartreuse;
+    border: 5px solid gold;
+}
+
+.gold{
+    background-color: crimson;
+}
+
+nav{
+   border: 4px solid gold; 
+    border-radius: 10px;
+    border-style: dashed;
+    background-color: lightseagreen;
+    margin: 10px;
+    padding: 10px;
+}
+
+nav a {
+    margin: 38px;
+    padding: 1px;
+}
+
+nav a:hover{
+    background-color: greenyellow;
+}
+
+header a:hover{
+    background-color: greenyellow;
+}
